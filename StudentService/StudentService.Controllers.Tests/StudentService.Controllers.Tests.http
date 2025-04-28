@@ -1,0 +1,6 @@
+@StudentService.Controllers.Tests_HostAddress = http://localhost:5036
+
+GET {{StudentService.Controllers.Tests_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
